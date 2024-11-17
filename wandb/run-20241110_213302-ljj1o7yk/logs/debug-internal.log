@@ -1,0 +1,8 @@
+{"time":"2024-11-10T21:33:02.0863384+07:00","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-10T21:33:02.0863384+07:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\Nitro 5\\OneDrive\\Máy tính\\AI\\wandb\\run-20241110_213302-ljj1o7yk\\logs\\debug-core.log"}
+{"time":"2024-11-10T21:33:04.7188323+07:00","level":"INFO","msg":"created new stream","id":"ljj1o7yk"}
+{"time":"2024-11-10T21:33:04.7188323+07:00","level":"INFO","msg":"stream: started","id":"ljj1o7yk"}
+{"time":"2024-11-10T21:33:04.7188323+07:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ljj1o7yk"}}
+{"time":"2024-11-10T21:33:04.7193532+07:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ljj1o7yk"}}
+{"time":"2024-11-10T21:33:04.7193532+07:00","level":"INFO","msg":"sender: started","stream_id":"ljj1o7yk"}
+{"time":"2024-11-10T21:33:05.2397239+07:00","level":"INFO","msg":"Starting system monitor"}
